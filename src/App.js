@@ -2,6 +2,7 @@ import Expenses from './components/Expenses/Expenses';
 import NewExpense from './components/NewExpense/NewExpense';
 
 function App() {
+  console.log('test')
   const expenses = [
     {
       id: 'e1',
