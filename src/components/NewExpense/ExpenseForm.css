@@ -19,6 +19,7 @@
   border: 1px solid #ccc;
   width: 20rem;
   max-width: 100%;
+  min-width: 10px;
 }
 
 .new-expense__actions {
