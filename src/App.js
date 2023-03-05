@@ -7,13 +7,13 @@ const BasicExpenses = [
     id: "e1",
     title: "Toilet Paper",
     amount: 94.12,
-    date: new Date(2020, 7, 9),
+    date: new Date(2021, 7, 9),
   },
   {
     id: "e2",
     title: "New TV",
     amount: 799.49,
-    date: new Date(2020, 2, 13),
+    date: new Date(2022, 2, 13),
   },
   {
     id: "e3",
